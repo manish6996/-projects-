@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="Stylesheet" href="style.css">
+</head>
+
+  <header class="header">
+    <a href="#" class="Logo">Satish Tripathy</a>
+    <nav class="navbar">
+      <a href="#about">About Me</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact Details</a>
+      <a href="#resume">My Resume</a>
+    </nav>
+  </header>
+
+<body> 
+<section class="home" id="home">
+    <div class="content">
+        <h1><br>Satish Kumar Tripathy</h1>
+        <p>I' m a undergrad student in the vast field of Artificial Intelligence and Machine Learning!</p>
+    </div>
+</section>
+<section class="about" id="about">
+
+  <h1 class="heading"> <span>about</span> me </h1>
+
+  <div class="row">
+
+      <div class="image">
+          <img src="image.jpeg" alt="">
+      </div>
+
+      <div class="content">
+        <h3>Hello there!, I'm Satish Kumar Tripathy, </h3>
+        <p>a passionate undergrad student with a keen interest in cutting-edge technologies that are shaping the future.
+           With a never ending desire of diving in to the in the field of AI, ML, and Web Development, I thrive on creating innovative solutions
+          that push the boundaries of what's possible in the digital world.</p>
+        <p>Enthusiast Web 3.0: 
+            Being a rookie in the field of Web 3.0 if I throw some light on it; Web 3.0 is a set of values and technical applications that define a new era of the World Wide Web.
+            Web3 allows for more secure, private, and open transactions on the internet without the need for an intermediary (like a bank or social media platform). The promise of Web3 is being able to interact and transact directly with anyone in the world but still hold complete control over your data.
+        </p>
+        <p>AI and ML Aficionado: 
+          Artificial Intelligence and Machine Learning are more than just buzzwords to me as they are the things for which I've opt the field of Computer Science, they're tools for solving complex problems. 
+          I'm continuously exploring new algorithms and methodologies to build intelligent systems that can learn and adapt in real-world 
+          scenarios.</p>
+        <p>Web Development Maverick :
+          As a Web Developer, I've got the little pot full of knowledge about the front-end of an website including HTML, CSS and JS. I can bring the websites back to life by organising and designing the details to make it feel like what we wished it to be.</p>
+          <p>My journey in the tech world is driven by a thirst for knowledge, a commitment to excellence, and a passion for 
+            solving complex problems. When I'm not coding or exploring new technologies, you can find me sharing my insights 
+            through social media posts, various events of tech talks, and discussion engagements.
+          Let's connect and collaborate on exciting projects or discuss the latest tech trends. 
+          Together, we can turn ideas into reality and contribute to the ever-evolving landscape of software development.
+           </p>
+        <p>Apart from these technical interests, I've completed DCM (Diploma in Computer Multimedia) in the year of 2019-20 respectively. <br>Thank you for visiting my portfolio, and I look forward to connecting with you!</p>
+          </div>
+        </div>
+</section>
+<section class="projects" id="projects">
+
+  <h1 class="heading"> My <span>Projects</span> </h1>
+
+  <div class="box-container">
+
+      <div class="box">
+          <div class="image">
+              <img src="web 3.0.png" alt="Web 3.0">
+          </div>
+          <div class="content">
+              <a href="#" class="title">Web 3.0</a>
+              <span>by satish / 19th jan, 2024</span>
+              <p>Enthusiast Web 3.0: Being a rookie in the field my research says, Web 3.0 is a set of values and technical applications that define a new era of the World Wide Web.
+                Web3 allows for more secure, private, and open transactions on the internet without the need for an intermediary (like a bank or social media platform). The promise of Web3 is being able to interact and transact directly with anyone in the world but still hold complete control over your data.
+            </p>
+          </div>
+      </div>
+    <p style="color: #ebfbfe;; font-size: large;"><br>Web3, is the third generation of the World Wide Web. Web 3.0 is meant to be decentralized, open to everyone (with a bottom-up design), and built on top of blockchain technologies and developments in the Semantic Web, which describes the web as a network of meaningfully linked data.
+
+        Web 3.0 is based on a specific set of principles, technical parameters, and values that distinguish it from earlier iterations of the World Wide Web: Web 2.0 and Web 1.0. Web 3.0 envisions a world without centralized companies, where people are in control of their own data and transactions are transparently recorded on blockchains, or databases searchable by anyone.<br>Web 3.0 is explained best through its features, namely ubiquity, decentralization, artificial intelligence, and semantic web interactivity. Some Web 3.0 technologies have already emerged, such as the decentralized concept that underpins blockchain. Other Web 3.0 meanings are yet to be understood, let alone created. <br>
+
+            Blockchain technology was created to facilitate cryptocurrency — the digital currencies that are decentralized (not controlled by central banks) and that are set to play a large role in Web 3.0. Known as Web 3.0 cryptos, these currencies — and other digital assets like NFTs — will be used to incentivize users and service providers, letting people transact directly with one another without having to go through third-parties like conventional banks. Web 3.0 envisions a truly decentralized internet, where connectivity is based completely on peer-to-peer network connections. This decentralized web will rely on blockchain to store data and maintain digital assets without being tracked.</p>
+      </div>
+
+</div>
+</section>
+
+<section id="resume">
+  <h2>Resume</h2>
+  <p>You can download my resume by clicking the link below:</p>
+  <a href="#" download>Download Resume (PDF)</a>
+</section>
+
+<section id="contact">
+  <h2>Contact Details</h2>
+  <p> Feel free to contact for any query</p>
+  <p>Phone: (+91) 9508829892</p>
+  <p>Email: <a href="#">skt23122004@gmail.com</a></p>
+</section>
+
+
+</div>
+<footer>
+<div class="footer-content">
+  <h3>Thanks for visiting!</h3>
+</div>
+</footer>
+</body>
+</html>
